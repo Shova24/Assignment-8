@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+}
+.header-box{
+    padding: 10px;
+}
+.logo{
+
+    padding-top: 7px;
+    height: 150px;
+    width: 700px;
+}
+
+.navbar{
+    background-color: #865439;
+    padding: 10px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.navbar a:hover{
+
+    background-color: goldenrod;
+    
+}
+
+.slogan{
+    text-transform: uppercase;
+}

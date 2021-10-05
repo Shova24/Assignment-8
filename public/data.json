@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1,
+        "name": "Espresso",
+        "img": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Latte-Art-066s.jpg",
+        "origin": "Italy",
+        "personal_rating": 5,
+        "price": 100,
+        "calories": 29
+    },
+    {
+        "key": 2,
+        "name": "Long Black",
+        "img": "https://elfuego.uk/wp-content/uploads/2019/11/Americano-Black-coffee.jpg",
+        "origin": "New Zealand.",
+        "personal_rating": 4,
+        "price": 300,
+        "calories": 50
+    },
+    {
+        "key": 3,
+        "name": "Doppio",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wlaz6cDRaSwDtdp5jUBTe2u2dt6aeYmxdw&usqp=CAU",
+        "origin": "Italy",
+        "personal_rating": 3,
+        "price": 200,
+        "calories": 40
+    },
+    {
+        "key": 4,
+        "name": "Coffee Robusta",
+        "img": "https://mk0compatibleca280u7.kinstacdn.com/wp-content/uploads/2018/04/Arabica_vs_Robusta_Coffee_Whats-_the-_difference.jpg",
+        "origin": "Italy",
+        "personal_rating": 4,
+        "price": 150,
+        "calories": 50
+    },
+    {
+        "key": 5,
+        "name": "Long Macchiato",
+        "img": "https://coffeemakered.com/wp-content/uploads/2018/08/long-short-macchiato.jpg",
+        "origin": "Australia",
+        "personal_rating": 4,
+        "price": 150,
+        "calories": 50
+    },
+    {
+        "key": 6,
+        "name": "Piccolo",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69qp9FpOo5bWhffd7Tf5Jhl7iaWlKsinXxg&usqp=CAU",
+        "origin": "Sydney",
+        "personal_rating": 4,
+        "price": 150,
+        "calories": 50
+    },
+    {
+        "key": 7,
+        "name": "Cappuccino",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNgoLQe76I6PLaxwWl5dDxnBBX0sY8HiKQL7ji6Xe-vUqZnC8jna5LQHKVVaBHBZDTbk&usqp=CAU",
+        "origin": "Italy",
+        "personal_rating": 2,
+        "price": 450,
+        "calories": 50
+    },
+    {
+        "key": 8,
+        "name": "Latte",
+        "img": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Latte-Art-067s.jpg",
+        "origin": "Italy",
+        "personal_rating": 4,
+        "price": 250,
+        "calories": 50
+    },
+    {
+        "key": 9,
+        "name": "Flat White",
+        "img": "https://burpple-2.imgix.net/foods/4e3d908a9b4c9d5811c1812062_original.?w=400&h=400&fit=crop&q=80&auto=format",
+        "origin": "Uk",
+        "personal_rating": 5,
+        "price": 350,
+        "calories": 50
+    },
+    {
+        "key": 10,
+        "name": "Mocha",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyFsZ7JRm9W_SATKeGXKFIpt2piboj6pzow&usqp=CAU",
+        "origin": "Yemen",
+        "personal_rating": 4,
+        "price": 200,
+        "calories": 50
+    },
+    {
+        "key": 11,
+        "name": "Affogato",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQT25wh4lvY6tytP7YZ7jLQNtcU_H4NyVDYCAxY_2pe6YJy709f6uZMz_vtsaguOYzaY&usqp=CAU",
+        "origin": "Italy",
+        "personal_rating": 4,
+        "price": 150,
+        "calories": 50
+    },
+    {
+        "key": 12,
+        "name": "Cold Drip",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ekk5h1wroIIwjUKBBF1pgYEAMLA1Z9cTNQ&usqp=CAU",
+        "origin": "Japan",
+        "personal_rating": 4,
+        "price": 180,
+        "calories": 50
+    }
+]
